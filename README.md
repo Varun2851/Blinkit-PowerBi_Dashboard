@@ -1,6 +1,6 @@
 # 🚀 Blinkit Power BI Dashboard
 
-This project presents a comprehensive business intelligence dashboard developed in **Power BI** for **Blinkit** (formerly Grofers), a popular online grocery delivery service in India. The dashboard provides detailed insights into key business metrics such as **sales performance, customer behavior, product trends, delivery efficiency**, and **city-wise operations**.
+This project presents a comprehensive business intelligence dashboard developed in **Power BI** for **Blinkit** (formerly Grofers), a popular online grocery delivery service in India. The dashboard provides detailed insights into key business metrics such as **sales performance, customer behavior, product trends, and delivery efficiency**
 
 ---
 
@@ -38,7 +38,6 @@ Blinkit Grocery Data
 - Bar charts
 - Line charts
 - Donut/Pie charts
-- Map visual (city-wise performance)
 - Card visuals for KPIs
 - Slicers for dynamic filtering (City, Category, Date range)
 
